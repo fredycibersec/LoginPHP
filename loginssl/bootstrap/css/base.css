@@ -1,0 +1,57 @@
+
+body{ 
+				background-image: url('../../img/fondo1080.jpg'); 
+				background-size: cover;
+	    		background-repeat: no-repeat;
+				background-attachment: fixed;
+			}
+			input{font-family: 'Roboto', sans-serif;}
+			h2{font-family: 'Roboto', sans-serif;}
+			.logo{
+				margin:5px 0 0 10px;
+				width: 50px;
+				/*display: inline-block;*/
+				/*float: right;*/
+
+			}
+			.docker{
+				color: white;
+				font-family: 'Roboto', sans-serif;
+				background-color: #1378BE;
+				margin: 0 auto;
+				margin-top: 8%; 
+				width:400px;
+				padding:15px;
+				border-radius: 6px 6px 6px 6px;
+				border: 1px solid #096BB4;
+				-moz-border-radius: 6px 6px 6px 6px;
+				-webkit-border-radius: 6px 6px 6px 6px;
+				box-shadow: 13px 11px 4px -7px rgba(0,0,0,0.59);
+				-webkit-box-shadow: 13px 11px 7px -7px rgba(0,0,0,0.59);
+				-moz-box-shadow: 13px 11px 4px -7px rgba(0,0,0,0.59); 
+			}
+			.textbox{
+				color: white;
+				font-family: 'Roboto', sans-serif;
+				background-color: #1378BE;
+				margin: 0 auto;
+				margin-top: 5%; 
+				width:800px;
+				padding:15px;
+				border-radius: 6px 6px 6px 6px;
+				border: 1px solid #096BB4;
+				-moz-border-radius: 6px 6px 6px 6px;
+				-webkit-border-radius: 6px 6px 6px 6px;
+				box-shadow: 13px 11px 4px -7px rgba(0,0,0,0.59);
+				-webkit-box-shadow: 13px 11px 7px -7px rgba(0,0,0,0.59);
+				-moz-box-shadow: 13px 11px 4px -7px rgba(0,0,0,0.59); 
+			}
+			.navbar{
+				box-shadow: -4px 10px 17px -5px rgba(0,0,0,0.45);
+				-webkit-box-shadow: -4px 10px 17px -5px rgba(0,0,0,0.45);
+				-moz-box-shadow: -4px 10px 17px -5px rgba(0,0,0,0.45);
+			}
+			#fotoarticulo{
+				float:left;
+				padding: 0px 15px 5px 0px;
+			}
